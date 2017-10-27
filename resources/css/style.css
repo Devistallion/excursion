@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+  }
+
+h4 {
+  font-weight: 16px;
+  color: aquamarine;
+}
+
+.title {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.guide {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  color: gray;
+  font-size: 21px;
+}
+
+.copy {
+  color: gray;
+  text-align: right;
+}
